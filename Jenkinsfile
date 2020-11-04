@@ -9,7 +9,7 @@ pipeline {
 
     stage('uat') {
       steps {
-        echo 'hello uat'
+        echo 'hello uat mike'
       }
     }
 
