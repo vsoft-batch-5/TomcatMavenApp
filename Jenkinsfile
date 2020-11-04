@@ -15,6 +15,6 @@ pipeline {
 
   }
   environment {
-    building = 'hello mike'
+    building = 'hello world'
   }
 }
