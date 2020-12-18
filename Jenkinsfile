@@ -3,13 +3,13 @@ pipeline {
   stages {
     stage('testing') {
       steps {
-        echo 'Hello USA'
+        echo 'Hello Atlanta'
       }
     }
 
     stage('uat') {
       steps {
-        echo 'hello india how are u'
+        echo 'hello india how is the weather'
       }
     }
 
