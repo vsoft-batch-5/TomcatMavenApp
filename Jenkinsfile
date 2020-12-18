@@ -9,12 +9,12 @@ pipeline {
 
     stage('uat') {
       steps {
-        echo 'hello goutham how are u'
+        echo 'hello india how are u'
       }
     }
 
   }
   environment {
-    building = 'hello world'
+    building = 'Hello USA'
   }
 }
