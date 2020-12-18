@@ -15,6 +15,6 @@ pipeline {
 
   }
   environment {
-    building = 'Hello USA'
+    building = 'Hello texas how are u what is the present weather'
   }
 }
